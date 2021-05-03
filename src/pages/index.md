@@ -33,17 +33,17 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Section Title
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Content - Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed
+      do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   List item - Lorem ipsum
 
-      - dolor sit amet
+      *   List item - dolor sit amet
     type: section_content
   - title: Recent Posts
     section_id: posts
